@@ -5,4 +5,5 @@
 Используемый стек:
 * SCSS
 * Jquery
+*JavaScript
 * БЭМ
